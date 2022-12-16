@@ -1,0 +1,6 @@
+projectKey=nagarro-test
+serverUrl=http://localhost:9000
+serverVersion=9.7.1.62043
+dashboardUrl=http://localhost:9000/dashboard?id=nagarro-test
+ceTaskId=AYUbX-9-0UIwIyVqH7Ps
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYUbX-9-0UIwIyVqH7Ps
